@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.heading {
+  font-size: 17px;
+  font-weight: 600;
+  font-family: 'ROBOTO';
+}
+.heading-2 {
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'ROBOTO';
+  color: #2b237c;
+  margin-top: 20px;
+}
